@@ -7,10 +7,10 @@
 		$(document).ready(function() {
 			$('#flip').on({
 				mouseenter: function () {
-					$('#panel').slideDown("slow");
+					$('#panel').slideToggle("slow");
                 },
 				mouseleave: function () {
-					$('#panel').slideUp("fast");
+					$('#panel').slideUp("slow");
                 }
 			});
 		});
