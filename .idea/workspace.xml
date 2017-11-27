@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CallFuntion.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CallFuntion.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CallFuntion.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypeAndAdd.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TypeAndAdd.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/TextCallFunction.html" />
         <option value="$PROJECT_DIR$/CallFunction" />
         <option value="$PROJECT_DIR$/CallFuntion.html" />
+        <option value="$PROJECT_DIR$/TypeAndAdd.html" />
       </list>
     </option>
   </component>
@@ -170,12 +181,12 @@
       <workItem from="1511514843532" duration="2256000" />
       <workItem from="1511700048803" duration="241000" />
       <workItem from="1511705962271" duration="599000" />
-      <workItem from="1511799050427" duration="1026000" />
+      <workItem from="1511799050427" duration="6366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4122000" />
+    <option name="totallyTimeSpent" value="9462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -294,6 +305,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeAndAdd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
       </provider>
